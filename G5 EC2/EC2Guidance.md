@@ -9,7 +9,7 @@
 <img src="./Image/EC2Guidance/4.png" alt="Ubuntu EC2"/>
 
 
-5. in <b>Amazon Machine Image<b>, Choose `Ubuntu Server 22.04 LTS (HVM), SSD Volume Type`
+5. in <b>Amazon Machine Image</b>, Choose `Ubuntu Server 22.04 LTS (HVM), SSD Volume Type`
 6. For your instance type, choose `g5.2xlarge`
 <img src="./Image/EC2Guidance/6.png" alt="EC2 GPU Size"/>
 
@@ -20,7 +20,7 @@
 <img src="./Image/EC2Guidance/7b.png" alt="Create Key Pair"/>
 
 
-8. In Network Settings, Change the <b>Allow the SSH Traffic from<b> to `My IP`
+8. In Network Settings, Change the <b>Allow the SSH Traffic from</b> to `My IP`
 <img src="./Image/EC2Guidance/8.png" alt="SSH Traffic"/>
 
 
