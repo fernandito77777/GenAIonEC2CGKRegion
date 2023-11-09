@@ -21,6 +21,7 @@ You can also try other public model that you want to play with on hugging face, 
 1. For the cost to run this, it's estimated around ~$ 25 for 2 hours, even can be less, depends on when will you terminate the instance.
 2. This demo is using Jakarta Region. Please bear in mind that each of the region might have a different cost
 
+### Agenda Guide
 Please refer to guide [here for EC2](./G5%20EC2/EC2Guidance.md)
 
 ### References
