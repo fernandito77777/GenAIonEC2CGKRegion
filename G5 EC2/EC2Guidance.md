@@ -369,7 +369,7 @@ It will display the Chatbot UI.
 Let's play it around
 
 58. In the chat, type any questions you want to ask.
-<video width="630" height="300" src="./Image/EC2Guidance/58.mp4"></video>
+<img src="./Image/EC2Guidance/58.gif" alt="LLM Demo"/>
 
 
 
