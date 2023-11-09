@@ -369,5 +369,9 @@ It will display the Chatbot UI.
 Let's play it around
 
 58. In the chat, type any questions you want to ask.
+<video width="480" height="320" controls>
+    <source src="./Image/EC2Guidance/58.mov" type="video/mp4">
+</video>
+
 
 Back to [README](../README.md)
