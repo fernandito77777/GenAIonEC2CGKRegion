@@ -235,6 +235,7 @@ MODELS=`[
                 "max_new_tokens": 1024
         },
         "endpoints": [{
+                "type": "tgi",
                 "url": "http://127.0.0.1:8080"
         }]
 }
